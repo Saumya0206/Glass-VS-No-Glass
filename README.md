@@ -6,6 +6,7 @@ Face recognition is a fascinating application in the field of image recognition.
 # Description
 
 We have a dataset generated using Generative Adversarial Neural Network (GAN) which consists of feature vectors of images of people wearing or not wearing glasses. The GAN network creates these images using a 512 number latent vector. We use various classification algorithms and compare their results in this report.. Apart from the GAN dataset , another image dataset was used to implement CNN for classification.
+There are three code files - one for gan and two for image dataset
 
 # Description of datasets
 
