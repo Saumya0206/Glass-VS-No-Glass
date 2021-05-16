@@ -14,8 +14,25 @@ GAN dataset contains 4500  rows where each row represents a train-image with 514
 - 1 id column
 - 1 glasses column : Class label - 0 for no glass and 1 for glass
 - 512 latent vector columns
+The image dataset has 2779 glass and 2151 no glass data samples.
 
 # Sources of datasets
 - [GAN Feature vector](https://www.kaggle.com/jeffheaton/glasses-or-no-glasses/)
 - [Image dataset](https://www.kaggle.com/jorgebuenoperez/datacleaningglassesnoglasses)
 
+# Models used 
+- For GAN :
+   - Random Forest Classification
+   - KNN
+   - Logistic Regression
+   - SVM
+   - MLP
+   - Gaussian Naive Bayes
+    We also make use of  PCA and LDA for dimensionality reduction and feature selection.
+    
+- For image dataset
+    - CNN
+    - VGG
+
+# Project Report 
+[Report](https://docs.google.com/document/d/1tlITSOfW7ZYc40DzOBEnw_TdNz5BtmDwrE8PRAapzEg/edit?usp=sharing)
