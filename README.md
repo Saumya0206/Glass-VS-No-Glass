@@ -15,8 +15,6 @@ GAN dataset contains 4500  rows where each row represents a train-image with 514
 - 1 glasses column : Class label - 0 for no glass and 1 for glass
 - 512 latent vector columns
 
-
-<br/>
 # Sources of datasets
 - [GAN Feature vector](https://www.kaggle.com/jeffheaton/glasses-or-no-glasses/)
 - [Image dataset](https://www.kaggle.com/jorgebuenoperez/datacleaningglassesnoglasses)
