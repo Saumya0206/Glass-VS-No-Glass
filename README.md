@@ -37,4 +37,4 @@ The image dataset has 2779 glass and 2151 no glass data samples.
     - VGG
 
 # Project Report 
-[Report](https://docs.google.com/document/d/1tlITSOfW7ZYc40DzOBEnw_TdNz5BtmDwrE8PRAapzEg/edit?usp=sharing)
+[Report](https://drive.google.com/file/d/1FbDRtUySr2OP6fmL1rNJFu1g3M5l-TrI/view?usp=sharing)
