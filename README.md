@@ -1,4 +1,6 @@
 # Glass-VS-No-Glass
+<br/>
+This repositary contains the Major Project for Pattern Recognition and Machine Learning Course
 
 # Problem Statement
 Face recognition is a fascinating application in the field of image recognition. However face images with glasses create hindrance .The goal of this project is to classify images of people into two classes: Glass and No-Glass based upon whether they wear a glass in the image or not. However, there is a variety in the shape, design and appearance of glasses which makes it challenging. The glass vs. no glass recognition can help in applications like face-recognition based biometric systems, detection of suspicious faces through security cameras, etc.
